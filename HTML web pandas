@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Hosting</title>
+</head>
+<body>
+    <h1>Download My File</h1>
+    <p>Click the link below to download the file:</p>
+    <a href="your_file.csv" download>Download CSV File</a>
+</body>
+</html>
